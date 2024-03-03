@@ -9,16 +9,8 @@
 2. После этого нажмите кнопку пуск на панели.
 3. Программа выведет код, тип лексемы, лексему и местоположение для каждого токена в таблице.
 ### Примеры допустимых строк
-public struct person{
-      public string name;
-      public int age;
-}
-public struct Point3D
-   {
-       public double X;
-       public double Y;
-       public double Z;   
-}
+![Снимок2](https://github.com/more1oleva/lab2/assets/118746926/fc6f1710-46ab-4f0e-970f-2c3ce1689ff6)
+
    ### Диаграмма состояний сканера
    ![тфияк drawio](https://github.com/more1oleva/lab2/assets/118746926/ca64e801-f22c-42c8-94e8-d1fd990f8a4f)
 ### Тестовые примеры
